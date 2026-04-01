@@ -17,7 +17,7 @@ connectDB();
 app.use(
   cors({
     origin: "https://abdelghafour.vercel.app",
-    credentials: true,
+    // credentials: true,
   })
 );
 
