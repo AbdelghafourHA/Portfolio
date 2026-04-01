@@ -16,8 +16,7 @@ connectDB();
 // Middlewares
 app.use(
   cors({
-    origin: "https://abdelghafour.vercel.app",
-    // credentials: true,
+    origin: ["http://localhost:5173", "https://abdelghafour.vercel.app"],
   })
 );
 
