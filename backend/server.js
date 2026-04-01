@@ -18,7 +18,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://portfolio-six-beryl-14.vercel.app",
+      "https://abdelghafour.vercel.app",
     ],
   })
 );
