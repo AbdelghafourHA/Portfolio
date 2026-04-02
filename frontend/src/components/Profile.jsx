@@ -10,7 +10,6 @@ import {
   faGithub,
 } from "@fortawesome/free-brands-svg-icons";
 import { motion } from "framer-motion";
-import Footer from "../sections/Footer";
 
 const socials = [
   {
@@ -26,7 +25,7 @@ const socials = [
   {
     icon: faTiktok,
     label: "TikTok",
-    link: "https://www.facebook.com/share/1DXjzGQraB/",
+    link: "https://www.tiktok.com/@abdelghafourdev?_r=1&_t=ZS-95DJdKxdySH",
   },
   { icon: faWhatsapp, label: "WhatsApp", link: "https://wa.me/213698055344" },
   {
