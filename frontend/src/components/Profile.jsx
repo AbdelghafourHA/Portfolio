@@ -4,6 +4,7 @@ import profileImg from "../assets/Profile.jpeg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faInstagram,
+  faFacebook,
   faTiktok,
   faWhatsapp,
   faGithub,
@@ -12,10 +13,27 @@ import { motion } from "framer-motion";
 import Footer from "../sections/Footer";
 
 const socials = [
-  { icon: faInstagram, label: "Instagram", link: "#" },
-  { icon: faTiktok, label: "TikTok", link: "#" },
-  { icon: faWhatsapp, label: "WhatsApp", link: "#" },
-  { icon: faGithub, label: "GitHub", link: "#" },
+  {
+    icon: faInstagram,
+    label: "Instagram",
+    link: "https://www.instagram.com/abdelghafour_dev?igsh=YTJyYmlweDN0Z21q",
+  },
+  {
+    icon: faFacebook,
+    label: "Facebook",
+    link: "https://www.facebook.com/share/1DXjzGQraB/",
+  },
+  {
+    icon: faTiktok,
+    label: "TikTok",
+    link: "https://www.facebook.com/share/1DXjzGQraB/",
+  },
+  { icon: faWhatsapp, label: "WhatsApp", link: "https://wa.me/213698055344" },
+  {
+    icon: faGithub,
+    label: "GitHub",
+    link: "https://github.com/AbdelghafourHA",
+  },
 ];
 
 const Profile = () => {
