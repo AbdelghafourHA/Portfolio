@@ -11,21 +11,25 @@ const projects = [
     title: "Lusso",
     desc: "Ecommerce Website",
     image: project1,
+    link: "https://lussoparfums-dz.com",
   },
   {
     title: "Bloom",
     desc: "Restaurant Website",
     image: project2,
+    link: "https://bloom.vercel.app",
   },
   {
     title: "MahmoudBen",
     desc: "Video Editor Portfolio",
     image: project3,
+    link: "https://mahmoudben.com",
   },
   {
     title: "Gueddouda Center",
     desc: "Cleaning Company Website",
     image: project4,
+    link: "https://gueddoudacenter.vercel.app",
   },
 ];
 
