@@ -17,7 +17,7 @@ const projects = [
     title: "Bloom",
     desc: "Restaurant Website",
     image: project2,
-    link: "https://bloom.vercel.app",
+    link: "https://bloom-restaurant.vercel.app",
   },
   {
     title: "MahmoudBen",
