@@ -43,7 +43,7 @@ export default function Pricing() {
         }}
       >
         {/* Title */}
-        <h2 className="text-3xl sm:text-5xl font-bold mb-10 text-center">
+        <h2 className="text-3xl sm:text-5xl font-bold mb-4 text-center">
           Pricing
         </h2>
         <p className="text-sm sm:text-base text-text-secondary max-w-xl mx-auto text-center mb-10">

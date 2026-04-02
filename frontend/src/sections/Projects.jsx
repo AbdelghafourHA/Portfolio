@@ -88,10 +88,12 @@ export default function Projects() {
               </div>
 
               <div className="flex flex-col">
-                <h3 className="text-lg font-semibold text-text-primary">
+                <h3 className="text-base md:text-lg font-semibold text-text-primary">
                   {project.title}
                 </h3>
-                <p className="text-sm text-text-secondary">{project.desc}</p>
+                <p className="text-xs md:text-sm text-text-secondary">
+                  {project.desc}
+                </p>
               </div>
 
               <div className="absolute right-4 text-violet transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1">
