@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 
 const navItems = [
   { icon: Home, label: "Home" },
-  { icon: DollarSign, label: "Pricing" },
   { icon: Folder, label: "Projects" },
+  { icon: DollarSign, label: "Pricing" },
   { icon: Mail, label: "Contact" },
 ];
 

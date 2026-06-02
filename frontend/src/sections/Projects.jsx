@@ -3,6 +3,8 @@ import project1 from "../assets/ProjectOne.png";
 import project2 from "../assets/ProjectTwo.png";
 import project3 from "../assets/ProjectThree.png";
 import project4 from "../assets/ProjectFour.png";
+import project5 from "../assets/ProjectFive.png";
+import project6 from "../assets/ProjectSix.png";
 import { ArrowUpRight } from "lucide-react";
 import { motion } from "framer-motion";
 
@@ -14,22 +16,34 @@ const projects = [
     link: "https://lussoparfums-dz.com",
   },
   {
-    title: "Bloom",
+    title: "Chahiya",
     desc: "Restaurant Website",
     image: project2,
-    link: "https://bloom-restaurant.vercel.app",
+    link: "https://chahiya.vercel.app",
   },
   {
-    title: "MahmoudBen",
-    desc: "Video Editor Portfolio",
-    image: project3,
-    link: "https://mahmoudben.com",
+    title: "Excellia",
+    desc: "Educational Website",
+    image: project6,
+    link: "https://excellia-seven.vercel.app",
+  },
+  {
+    title: "Golden Hour",
+    desc: "Boat Rental Website",
+    image: project5,
+    link: "https://golden-hour-red.vercel.app",
   },
   {
     title: "Gueddouda Center",
     desc: "Cleaning Company Website",
     image: project4,
     link: "https://gueddoudacenter.vercel.app",
+  },
+  {
+    title: "Mahmoud Ben",
+    desc: "Video Editor Portfolio",
+    image: project3,
+    link: "https://mahmoudben.com",
   },
 ];
 
