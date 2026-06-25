@@ -16,22 +16,22 @@ const projects = [
     link: "https://lussoparfums-dz.com",
   },
   {
-    title: "Chahiya",
-    desc: "Restaurant Website",
-    image: project2,
-    link: "https://chahiya.vercel.app",
-  },
-  {
-    title: "Excellia",
+    title: "Eminora",
     desc: "Educational Website",
     image: project6,
-    link: "https://excellia-seven.vercel.app",
+    link: "https://eminora-montessori.com",
+  },
+  {
+    title: "Chahiya",
+    desc: "Restaurant Website (Demo)",
+    image: project2,
+    link: "https://chahiya.vercel.app",
   },
   {
     title: "Golden Hour",
     desc: "Boat Rental Website",
     image: project5,
-    link: "https://golden-hour-red.vercel.app",
+    link: "https://goldenhour-boats.com",
   },
   {
     title: "Gueddouda Center",
